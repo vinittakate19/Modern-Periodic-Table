@@ -1,0 +1,118 @@
+1,Hydrogen,H,1s^1,Henry Cavendish,+1
+2,Helium,He,1s^2,Pierre Janssen,0
+3,Lithium,Li,[He] 2s^1,Johann Arfvedson,+1
+4,Beryllium,Be,[He] 2s^2,Louis Nicolas Vauquelin,+2
+5,Boron,B,[He] 2s^2 2p^1,Joseph Gay-Lussac,+3
+6,Carbon,C,[He] 2s^2 2p^2,Known since ancient times,±4
+7,Nitrogen,N,[He] 2s^2 2p^3,Daniel Rutherford,-3
+8,Oxygen,O,[He] 2s^2 2p^4,Carl Wilhelm Scheele,-2
+9,Fluorine,F,[He] 2s^2 2p^5,Henri Moissan,-1
+10,Neon,Ne,[He] 2s^2 2p^6,William Ramsay,0
+11,Sodium,Na,[Ne] 3s^1,Humphry Davy,+1
+12,Magnesium,Mg,[Ne] 3s^2,Joseph Black,+2
+13,Aluminium,Al,[Ne] 3s^2 3p^1,Hans Christian Ørsted,+3
+14,Silicon,Si,[Ne] 3s^2 3p^2,Jöns Jakob Berzelius,±4
+15,Phosphorus,P,[Ne] 3s^2 3p^3,Hennig Brand,-3
+16,Sulfur,S,[Ne] 3s^2 3p^4,Known since ancient times,-2
+17,Chlorine,Cl,[Ne] 3s^2 3p^5,Carl Wilhelm Scheele,-1
+18,Argon,Ar,[Ne] 3s^2 3p^6,Lord Rayleigh and William Ramsay,0
+19,Potassium,K,[Ar] 4s^1,Humphry Davy,+1
+20,Calcium,Ca,[Ar] 4s^2,Humphry Davy,+2
+21,Scandium,Sc,[Ar] 3d^1 4s^2,Lars Fredrik Nilson,+3
+22,Titanium,Ti,[Ar] 3d^2 4s^2,William Gregor,+4
+23,Vanadium,V,[Ar] 3d^3 4s^2,Andrés Manuel del Río,+5
+24,Chromium,Cr,[Ar] 3d^5 4s^1,Louis Nicolas Vauquelin,+3
+25,Manganese,Mn,[Ar] 3d^5 4s^2,Johan Gottlieb Gahn,+2
+26,Iron,Fe,[Ar] 3d^6 4s^2,Known since ancient times,+2
+27,Cobalt,Co,[Ar] 3d^7 4s^2,Georg Brandt,+2
+28,Nickel,Ni,[Ar] 3d^8 4s^2,Axel Fredrik Cronstedt,+2
+29,Copper,Cu,[Ar] 3d^10 4s^1,Known since ancient times,+1
+30,Zinc,Zn,[Ar] 3d^10 4s^2,Andreas Marggraf,+2
+31,Gallium,Ga,[Ar] 3d^10 4s^2 4p^1,Lecoq de Boisbaudran,+3
+32,Germanium,Ge,[Ar] 3d^10 4s^2 4p^2,Clemens Winkler,+4
+33,Arsenic,As,[Ar] 3d^10 4s^2 4p^3,Albertus Magnus,-3
+34,Selenium,Se,[Ar] 3d^10 4s^2 4p^4,Jöns Jakob Berzelius,-2
+35,Bromine,Br,[Ar] 3d^10 4s^2 4p^5,Antoine Balard,-1
+36,Krypton,Kr,[Ar] 3d^10 4s^2 4p^6,William Ramsay and Morris Travers,0
+37,Rubidium,Rb,[Kr] 5s^1,Robert Bunsen and Gustav Kirchhoff,+1
+38,Strontium,Sr,[Kr] 5s^2,Adair Crawford,+2
+39,Yttrium,Y,[Kr] 4d^1 5s^2,Johan Gadolin,+3
+40,Zirconium,Zr,[Kr] 4d^2 5s^2,Martin Heinrich Klaproth,+4
+41,Niobium,Nb,[Kr] 4d^4 5s^1,Charles Hatchett,+5
+42,Molybdenum,Mo,[Kr] 4d^5 5s^1,Carl Wilhelm Scheele,+6
+43,Technetium,Tc,[Kr] 4d^5 5s^2,Carlos Perrier and Emilio Segrè,+7
+44,Ruthenium,Ru,[Kr] 4d^7 5s^1,Karl Ernst Claus,+3
+45,Rhodium,Rh,[Kr] 4d^8 5s^1,William Hyde Wollaston,+3
+46,Palladium,Pd,[Kr] 4d^10,William Hyde Wollaston,+2
+47,Silver,Ag,[Kr] 4d^10 5s^1,Andreas Marggraf,+1
+48,Cadmium,Cd,[Kr] 4d^10 5s^2,Friedrich Stromeyer,+2
+49,Indium,In,[Kr] 4d^10 5s^2 5p^1,Ferdinand Reich and Hieronymous Richter,+3
+50,Tin,Sn,[Kr] 4d^10 5s^2 5p^2,Known since ancient times,+4
+51,Antimony,Sb,[Kr] 4d^10 5s^2 5p^3,Known since ancient times,±3
+52,Tellurium,Te,[Kr] 4d^10 5s^2 5p^4,Franz-Joseph Müller von Reichenstein,-2
+53,Iodine,I,[Kr] 4d^10 5s^2 5p^5,Bernard Courtois,-1
+54,Xenon,Xe,[Kr] 4d^10 5s^2 5p^6,William Ramsay and Morris Travers,0
+55,Cesium,Cs,[Xe] 6s^1,Robert Bunsen and Gustav Kirchhoff,+1
+56,Barium,Ba,[Xe] 6s^2,Carl Wilhelm Scheele,+2
+57,Lanthanum,La,[Xe] 5d^1 6s^2,Carl Gustaf Mosander,+3
+58,Cerium,Ce,[Xe] 4f^1 5d^1 6s^2,Martin Heinrich Klaproth and Jöns Jakob Berzelius,+4
+59,Praseodymium,Pr,[Xe] 4f^3 6s^2,Carl Auer von Welsbach,+3
+60,Neodymium,Nd,[Xe] 4f^4 6s^2,Carl Auer von Welsbach,+3
+61,Promethium,Pm,[Xe] 4f^5 6s^2,Chien Shiung Wu and Emilio Segrè,+3
+62,Samarium,Sm,[Xe] 4f^6 6s^2,Lecoq de Boisbaudran,+3
+63,Europium,Eu,[Xe] 4f^7 6s^2,Eugène-Anatole Demarçay,+3
+64,Gadolinium,Gd,[Xe] 4f^7 5d^1 6s^2,Jean Charles Galissard de Marignac,+3
+65,Terbium,Tb,[Xe] 4f^9 6s^2,Carl Gustaf Mosander,+3
+66,Dysprosium,Dy,[Xe] 4f^10 6s^2,Paul-Émile Lecoq de Boisbaudran,+3
+67,Holmium,Ho,[Xe] 4f^11 6s^2,Per Teodor Cleve,+3
+68,Erbium,Er,[Xe] 4f^12 6s^2,Carl Gustaf Mosander,+3
+69,Thulium,Tm,[Xe] 4f^13 6s^2,Per Teodor Cleve,+3
+70,Ytterbium,Yb,[Xe] 4f^14 6s^2,Jean Charles Galissard de Marignac,+2
+71,Lutetium,Lu,[Xe] 4f^14 5d^1 6s^2,Georges Urbain,+3
+72,Hafnium,Hf,[Xe] 4f^14 5d^2 6s^2,Dirk Coster and Georg von Hevesy,+4
+73,Tantalum,Ta,[Xe] 4f^14 5d^3 6s^2,Anders Gustaf Ekeberg,+5
+74,Tungsten,W,[Xe] 4f^14 5d^4 6s^2,Peter Woulfe,+6
+75,Rhenium,Re,[Xe] 4f^14 5d^5 6s^2,Ida Noddack, Walter Noddack, Otto Berg,+7
+76,Osmium,Os,[Xe] 4f^14 5d^6 6s^2,Smithson Tennant,+4
+77,Iridium,Ir,[Xe] 4f^14 5d^7 6s^2,Smithson Tennant,+3
+78,Platinum,Pt,[Xe] 4f^14 5d^9 6s^1,Antonio de Ulloa,+2
+79,Gold,Au,[Xe] 4f^14 5d^10 6s^1,Known since ancient times,+1
+80,Mercury,Hg,[Xe] 4f^14 5d^10 6s^2,Known since ancient times,+2
+81,Thallium,Tl,[Xe] 4f^14 5d^10 6s^2 6p^1,William Crookes,+1
+82,Lead,Pb,[Xe] 4f^14 5d^10 6s^2 6p^2,Known since ancient times,+2
+83,Bismuth,Bi,[Xe] 4f^14 5d^10 6s^2 6p^3,Known since ancient times,+3
+84,Polonium,Po,[Xe] 4f^14 5d^10 6s^2 6p^4,Marie Curie and Pierre Curie,+2
+85,Astatine,At,[Xe] 4f^14 5d^10 6s^2 6p^5,Dale R. Corson, Kenneth Ross MacKenzie, Emilio G. Segrè,-1
+86,Radon,Rn,[Xe] 4f^14 5d^10 6s^2 6p^6,Friedrich Ernst Dorn,0
+87,Francium,Fr,[Rn] 7s^1,Marguerite Perey,+1
+88,Radium,Ra,[Rn] 7s^2,Marie Curie and Pierre Curie,+2
+89,Actinium,Ac,[Rn] 6d^1 7s^2,Friedrich Oskar Giesel,+3
+90,Thorium,Th,[Rn] 6d^2 7s^2,Jöns Jakob Berzelius,+4
+91,Protactinium,Pa,[Rn] 5f^2 6d^1 7s^2,Kazimierz Fajans and Oswald Helmuth Göhring,+5
+92,Uranium,U,[Rn] 5f^3 6d^1 7s^2,Martin Heinrich Klaproth,+6
+93,Neptunium,Np,[Rn] 5f^4 6d^1 7s^2,Edwin McMillan and Philip H. Abelson,+5
+94,Plutonium,Pu,[Rn] 5f^6 7s^2,Glenn T. Seaborg,+4
+95,Americium,Am,[Rn] 5f^7 7s^2,Glenn T. Seaborg,+3
+96,Curium,Cm,[Rn] 5f^7 6d^1 7s^2,Glenn T. Seaborg,+3
+97,Berkelium,Bk,[Rn] 5f^9 7s^2,Lawrence Berkeley National Laboratory,+3
+98,Californium,Cf,[Rn] 5f^10 7s^2,Lawrence Berkeley National Laboratory,+3
+99,Einsteinium,Es,[Rn] 5f^11 7s^2,Lawrence Berkeley National Laboratory,+3
+100,Fermium,Fm,[Rn] 5f^12 7s^2,Lawrence Berkeley National Laboratory,+3
+101,Mendelevium,Md,[Rn] 5f^13 7s^2,Glenn T. Seaborg,+3
+102,Nobelium,No,[Rn] 5f^14 7s^2,Joint Institute for Nuclear Research and Lawrence Berkeley National Laboratory,+2
+103,Lawrencium,Lr,[Rn] 5f^14 7s^2 7p^1,Lawrence Berkeley National Laboratory,+3
+104,Rutherfordium,Rf,[Rn] 5f^14 6d^2 7s^2,Joint Institute for Nuclear Research,+4
+105,Dubnium,Db,[Rn] 5f^14 6d^3 7s^2,Joint Institute for Nuclear Research and Lawrence Berkeley National Laboratory,+5
+106,Seaborgium,Sg,[Rn] 5f^14 6d^4 7s^2,Lawrence Berkeley National Laboratory,+6
+107,Bohrium,Bh,[Rn] 5f^14 6d^5 7s^2,GSI Helmholtz Centre for Heavy Ion Research,+7
+108,Hassium,Hs,[Rn] 5f^14 6d^6 7s^2,GSI Helmholtz Centre for Heavy Ion Research,+8
+109,Meitnerium,Mt,[Rn] 5f^14 6d^7 7s^2,GSI Helmholtz Centre for Heavy Ion Research,Unknown
+110,Darmstadtium,Ds,[Rn] 5f^14 6d^9 7s^1,GSI Helmholtz Centre for Heavy Ion Research,Unknown
+111,Roentgenium,Rg,[Rn] 5f^14 6d^10 7s^1,GSI Helmholtz Centre for Heavy Ion Research,Unknown
+112,Copernicium,Cn,[Rn] 5f^14 6d^10 7s^2,GSI Helmholtz Centre for Heavy Ion Research,Unknown
+113,Nihonium,Nh,[Rn] 5f^14 6d^10 7s^2 7p^1,RIKEN (Japan),+1
+114,Flerovium,Fl,[Rn] 5f^14 6d^10 7s^2 7p^2,Joint Institute for Nuclear Research and Lawrence Livermore National Laboratory,+2
+115,Moscovium,Mc,[Rn] 5f^14 6d^10 7s^2 7p^3,Joint Institute for Nuclear Research and Lawrence Livermore National Laboratory,+3
+116,Livermorium,Lv,[Rn] 5f^14 6d^10 7s^2 7p^4,Joint Institute for Nuclear Research and Lawrence Livermore National Laboratory,+4
+117,Tennessine,Ts,[Rn] 5f^14 6d^10 7s^2 7p^5,Joint Institute for Nuclear Research, Oak Ridge National Laboratory, and Lawrence Livermore National Laboratory,-1
+118,Oganesson,Og,[Rn] 5f^14 6d^10 7s^2 7p^6,Joint Institute for Nuclear Research and Lawrence Livermore National Laboratory,0
